@@ -1,0 +1,18 @@
+# Quartus 빌드 산출물
+db/
+incremental_db/
+output_files/
+simulation/
+work/
+temp/
+
+# ModelSim
+*.wlf
+wlft*
+transcript
+
+# Quartus 프로젝트 파일 (소스만 유지)
+*.qpf
+*.qsf
+*.qws
+*.sdc
